@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'diabot-fyp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_83bc73f6815447149f264d8e1a54baea }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7d5ea13a69fd43f288b0cd0202e5fcf9 }}
         package: .
